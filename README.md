@@ -1,4 +1,4 @@
-# fs-cook
+# fscook
 
 [DEV] Linux tarball building
 
